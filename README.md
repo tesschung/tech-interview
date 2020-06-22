@@ -1,0 +1,17 @@
+JAVA
+
+PYTHON
+
+JAVASCRIPT
+
+DB
+
+- Oracle DBMS
+
+VUE
+
+REACT
+
+DJANGO
+
+CLOUD
